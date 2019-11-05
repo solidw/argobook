@@ -1,0 +1,1227 @@
+[
+	{
+		"No": 1,
+		"Category": "보안 일반",
+		"SubCategory": null,
+		"Title": "APPLIED CRYPTOGRAPHY",
+		"ManageNo": "000 - 1"
+	},
+	{
+		"No": 2,
+		"Category": "보안 일반",
+		"SubCategory": null,
+		"Title": "Hacking RSS and Atom",
+		"ManageNo": "000 - 2"
+	},
+	{
+		"No": 3,
+		"Category": "보안 일반",
+		"SubCategory": null,
+		"Title": "정보 보안 개론과 실습",
+		"ManageNo": "000 - 3"
+	},
+	{
+		"No": 4,
+		"Category": "보안 일반",
+		"SubCategory": null,
+		"Title": "CTF 정보보안 콘테스트 챌린지 북",
+		"ManageNo": "000 - 4"
+	},
+	{
+		"No": 5,
+		"Category": "보안 일반",
+		"SubCategory": null,
+		"Title": "해킹 공격의 예술",
+		"ManageNo": "000 - 5"
+	},
+	{
+		"No": 6,
+		"Category": "보안 일반",
+		"SubCategory": null,
+		"Title": "해킹 맛보기",
+		"ManageNo": "000 - 6"
+	},
+	{
+		"No": 7,
+		"Category": "보안 일반",
+		"SubCategory": null,
+		"Title": "버그 헌터's 다이어리",
+		"ManageNo": "000 - 7"
+	},
+	{
+		"No": 8,
+		"Category": "보안 일반",
+		"SubCategory": null,
+		"Title": "블록체인 구조와 이론",
+		"ManageNo": "000 - 8"
+	},
+	{
+		"No": 9,
+		"Category": "보안 일반",
+		"SubCategory": null,
+		"Title": "봇을 이용한 게임 해킹",
+		"ManageNo": "000 - 9"
+	},
+	{
+		"No": 10,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "DEBUGGING APPLICATIONS FOT .NET AND WINDOWS",
+		"ManageNo": "100 - 1"
+	},
+	{
+		"No": 11,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "Application Hacking",
+		"ManageNo": "100 - 2"
+	},
+	{
+		"No": 12,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "만들면서 배우는 OS 커널의 구조와 원리",
+		"ManageNo": "100 - 3"
+	},
+	{
+		"No": 13,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "OS 구조와 원리",
+		"ManageNo": "100 - 4"
+	},
+	{
+		"No": 14,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "윈도우 드라이버 모델 WDM",
+		"ManageNo": "100 - 5"
+	},
+	{
+		"No": 15,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "Windows Internals",
+		"ManageNo": "100 - 6"
+	},
+	{
+		"No": 16,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "성공과 실패를 결정하는 1%의 Windows 구조와 원리",
+		"ManageNo": "100 - 7"
+	},
+	{
+		"No": 17,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "실전 윈도우 디버깅",
+		"ManageNo": "100 - 8"
+	},
+	{
+		"No": 18,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "리눅스 커널 심층분석",
+		"ManageNo": "100 - 9"
+	},
+	{
+		"No": 19,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "러닝 리눅스",
+		"ManageNo": "100 - 10"
+	},
+	{
+		"No": 20,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "UNIX V6로 배우는 커널의 원리와 구조",
+		"ManageNo": "100 - 11"
+	},
+	{
+		"No": 21,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "Kali Linux 실전 활용",
+		"ManageNo": "100 - 12"
+	},
+	{
+		"No": 22,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "우분투 리눅스 시스템 & 네트워크",
+		"ManageNo": "100 - 13"
+	},
+	{
+		"No": 23,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "리눅스의 모든 것",
+		"ManageNo": "100 - 14"
+	},
+	{
+		"No": 24,
+		"Category": "OS",
+		"SubCategory": null,
+		"Title": "리눅스 디바이스 드라이버",
+		"ManageNo": "100 - 15"
+	},
+	{
+		"No": 25,
+		"Category": "네트워크",
+		"SubCategory": "보안",
+		"Title": "네트워크 보안 에센셜",
+		"ManageNo": "200 - 1"
+	},
+	{
+		"No": 26,
+		"Category": "네트워크",
+		"SubCategory": "보안",
+		"Title": "BackTrack 5 Wireless Penetraion Testing",
+		"ManageNo": "200 - 2"
+	},
+	{
+		"No": 27,
+		"Category": "네트워크",
+		"SubCategory": "보안",
+		"Title": "HACKING EXPOSED 7 네트워크 해킹과 보안의 비밀과 해결책",
+		"ManageNo": "200 - 3"
+	},
+	{
+		"No": 28,
+		"Category": "네트워크",
+		"SubCategory": "보안",
+		"Title": "네트워크 패킷 포렌식",
+		"ManageNo": "200 - 4"
+	},
+	{
+		"No": 29,
+		"Category": "네트워크",
+		"SubCategory": "일반",
+		"Title": "TCP/IP 소켓 프로그래밍",
+		"ManageNo": "210 - 1"
+	},
+	{
+		"No": 30,
+		"Category": "네트워크",
+		"SubCategory": "일반",
+		"Title": "후니의 쉽게 쓴 시스코 네트워킹 vol. 1",
+		"ManageNo": "210 - 2"
+	},
+	{
+		"No": 31,
+		"Category": "네트워크",
+		"SubCategory": "일반",
+		"Title": "후니의 쉽게 쓴 시스코 네트워킹 vol. 2",
+		"ManageNo": "210 - 3"
+	},
+	{
+		"No": 32,
+		"Category": "네트워크",
+		"SubCategory": "일반",
+		"Title": "와이어샤크 네트워크 완전 분석",
+		"ManageNo": "210 - 4"
+	},
+	{
+		"No": 33,
+		"Category": "네트워크",
+		"SubCategory": "일반",
+		"Title": "와이어샤크를 활용한 실전 패킷 분석",
+		"ManageNo": "210 - 5"
+	},
+	{
+		"No": 34,
+		"Category": "네트워크",
+		"SubCategory": "일반",
+		"Title": "TCP/IP가 보이는 그림책",
+		"ManageNo": "210 - 6"
+	},
+	{
+		"No": 35,
+		"Category": "네트워크",
+		"SubCategory": "일반",
+		"Title": "TCP/IP 완벽 가이드",
+		"ManageNo": "210 - 7"
+	},
+	{
+		"No": 36,
+		"Category": "리버싱",
+		"SubCategory": null,
+		"Title": "Windows Debugging",
+		"ManageNo": "300 - 1"
+	},
+	{
+		"No": 37,
+		"Category": "리버싱",
+		"SubCategory": null,
+		"Title": "REVERSING",
+		"ManageNo": "300 - 2"
+	},
+	{
+		"No": 38,
+		"Category": "리버싱",
+		"SubCategory": null,
+		"Title": "리버싱 리버스 엔지니어링 비밀을 파해치다",
+		"ManageNo": "300 - 3"
+	},
+	{
+		"No": 39,
+		"Category": "리버싱",
+		"SubCategory": null,
+		"Title": "Reversing Engineering 리버스엔제니어링 : 역분석 구조와 원리",
+		"ManageNo": "300 - 4"
+	},
+	{
+		"No": 40,
+		"Category": "리버싱",
+		"SubCategory": null,
+		"Title": "리버싱 핵심 원리 악성 코드 분석가의 리버싱 이야기",
+		"ManageNo": "300 - 5"
+	},
+	{
+		"No": 41,
+		"Category": "리버싱",
+		"SubCategory": null,
+		"Title": "리버싱 핵심 원리 악성 코드 분석가의 리버싱 이야기",
+		"ManageNo": "300 - 6"
+	},
+	{
+		"No": 42,
+		"Category": "리버싱",
+		"SubCategory": null,
+		"Title": "악성코드 분석가의 비법서",
+		"ManageNo": "300 - 7"
+	},
+	{
+		"No": 43,
+		"Category": "리버싱",
+		"SubCategory": null,
+		"Title": "THE IDA PRO BOOK 리버스 엔지니어링에 날개를 달다",
+		"ManageNo": "300 - 8"
+	},
+	{
+		"No": 44,
+		"Category": "리버싱",
+		"SubCategory": null,
+		"Title": "리버스 엔지니어링 바이블",
+		"ManageNo": "300 - 9"
+	},
+	{
+		"No": 45,
+		"Category": "시스템",
+		"SubCategory": null,
+		"Title": "시스템 로그분석",
+		"ManageNo": "400 - 1"
+	},
+	{
+		"No": 46,
+		"Category": "시스템",
+		"SubCategory": null,
+		"Title": "임베디드 시스템 펌웨어 분석",
+		"ManageNo": "400 - 2"
+	},
+	{
+		"No": 47,
+		"Category": "시스템",
+		"SubCategory": null,
+		"Title": "모의 해킹 전문가를 위한 메타스플로잇",
+		"ManageNo": "400 - 3"
+	},
+	{
+		"No": 48,
+		"Category": "시스템",
+		"SubCategory": null,
+		"Title": "윈도우 시스템 해킹 가이드 버그헌팅과 익스플로잇",
+		"ManageNo": "400 - 4"
+	},
+	{
+		"No": 49,
+		"Category": "시스템",
+		"SubCategory": null,
+		"Title": "루트킷 원도우 커널 조작의 미학",
+		"ManageNo": "400 - 5"
+	},
+	{
+		"No": 50,
+		"Category": "포렌식",
+		"SubCategory": null,
+		"Title": "디지털 포렌식 : THE BASICS",
+		"ManageNo": "450 - 1"
+	},
+	{
+		"No": 51,
+		"Category": "포렌식",
+		"SubCategory": null,
+		"Title": "WINDOWS FORENSIC ANALYSIS",
+		"ManageNo": "450 - 2"
+	},
+	{
+		"No": 52,
+		"Category": "포렌식",
+		"SubCategory": null,
+		"Title": "디지털 포렌식 개론",
+		"ManageNo": "450 - 3"
+	},
+	{
+		"No": 53,
+		"Category": "포렌식",
+		"SubCategory": null,
+		"Title": "인사이드 윈도우 포렌식",
+		"ManageNo": "450 - 4"
+	},
+	{
+		"No": 54,
+		"Category": "포렌식",
+		"SubCategory": null,
+		"Title": "파일시스템 포렌식 분석",
+		"ManageNo": "450 - 5"
+	},
+	{
+		"No": 55,
+		"Category": "포렌식",
+		"SubCategory": null,
+		"Title": "오픈소스 툴을 이용한 디지털 포렌식",
+		"ManageNo": "450 - 6"
+	},
+	{
+		"No": 56,
+		"Category": "웹",
+		"SubCategory": "보안",
+		"Title": "웹 모의해킹 및 시큐어코딩 진단가이드",
+		"ManageNo": "500 - 1"
+	},
+	{
+		"No": 57,
+		"Category": "웹",
+		"SubCategory": "보안",
+		"Title": "웹 모의해킹 및 시큐어코딩 진단가이드",
+		"ManageNo": "500 - 2"
+	},
+	{
+		"No": 58,
+		"Category": "웹",
+		"SubCategory": "보안",
+		"Title": "웹 해킹 패턴과 대응",
+		"ManageNo": "500 - 3"
+	},
+	{
+		"No": 59,
+		"Category": "웹",
+		"SubCategory": "보안",
+		"Title": "웹 해킹 & 보안 완벽 가이드",
+		"ManageNo": "500 - 4"
+	},
+	{
+		"No": 60,
+		"Category": "웹",
+		"SubCategory": "보안",
+		"Title": "PHP 보안 : 몇 줄의 코드로 안전하게",
+		"ManageNo": "500 - 5"
+	},
+	{
+		"No": 61,
+		"Category": "웹",
+		"SubCategory": "보안",
+		"Title": "웹 해킹과 보안 설정 가이드",
+		"ManageNo": "500 - 6"
+	},
+	{
+		"No": 62,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "뇌를 자극하는 ASP.NET 2.0",
+		"ManageNo": "510 - 1"
+	},
+	{
+		"No": 63,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "JSP Programming with a Workbook",
+		"ManageNo": "510 - 2"
+	},
+	{
+		"No": 64,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "HTML5 웹소켓 프로그래밍",
+		"ManageNo": "510 - 3"
+	},
+	{
+		"No": 65,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "자바스크립트 완벽 가이드",
+		"ManageNo": "510 - 4"
+	},
+	{
+		"No": 66,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "플라스크 웹 개발",
+		"ManageNo": "510 - 5"
+	},
+	{
+		"No": 67,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "자바스크립트 성능 최적화",
+		"ManageNo": "510 - 6"
+	},
+	{
+		"No": 68,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "Rubu on Rails",
+		"ManageNo": "510 - 7"
+	},
+	{
+		"No": 69,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "Learning PHP, MySQL, JavaScript, & CSS",
+		"ManageNo": "510 - 8"
+	},
+	{
+		"No": 70,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "HTML&CSS 웹사이트 개발과 디자인 기초",
+		"ManageNo": "510 - 9"
+	},
+	{
+		"No": 71,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "HTML5 + CSS3 웹 표준의 정석",
+		"ManageNo": "510 - 10"
+	},
+	{
+		"No": 72,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "PHP5 WEB PROGRAMMING GUIDE",
+		"ManageNo": "510 - 11"
+	},
+	{
+		"No": 73,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "리액트를 다루는 기술",
+		"ManageNo": "510 - 12"
+	},
+	{
+		"No": 74,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "리액트를 다루는 기술",
+		"ManageNo": "510 - 13"
+	},
+	{
+		"No": 75,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "Node.js 교과서",
+		"ManageNo": "510 - 14"
+	},
+	{
+		"No": 76,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "Node.js 교과서",
+		"ManageNo": "510 - 15"
+	},
+	{
+		"No": 77,
+		"Category": "웹",
+		"SubCategory": "일반",
+		"Title": "HTML5 게임 프로그래밍",
+		"ManageNo": "510 - 16"
+	},
+	{
+		"No": 78,
+		"Category": "웹",
+		"SubCategory": "디비",
+		"Title": "MySQL 레퍼런스 매뉴얼",
+		"ManageNo": "520 - 1"
+	},
+	{
+		"No": 79,
+		"Category": "모바일",
+		"SubCategory": "iOS",
+		"Title": "터칭! 아이폰 SDK 3.0",
+		"ManageNo": "600 - 1"
+	},
+	{
+		"No": 80,
+		"Category": "모바일",
+		"SubCategory": "iOS",
+		"Title": "아이폰 & 아이패드 인 액션",
+		"ManageNo": "600 - 2"
+	},
+	{
+		"No": 81,
+		"Category": "모바일",
+		"SubCategory": "iOS",
+		"Title": "아이폰 SDK 애플리케이션 개발",
+		"ManageNo": "600 - 3"
+	},
+	{
+		"No": 82,
+		"Category": "모바일",
+		"SubCategory": "안드로이드",
+		"Title": "애플리케이션 개발자, 안드로이드 매력에 빠지다",
+		"ManageNo": "610 - 1"
+	},
+	{
+		"No": 83,
+		"Category": "모바일",
+		"SubCategory": "안드로이드",
+		"Title": "그림으로 쉽게 설명하는 안드로이드 프로그래밍",
+		"ManageNo": "610 - 2"
+	},
+	{
+		"No": 84,
+		"Category": "모바일",
+		"SubCategory": "안드로이드",
+		"Title": "안드로이드 API 바이블",
+		"ManageNo": "610 - 3"
+	},
+	{
+		"No": 85,
+		"Category": "모바일",
+		"SubCategory": "안드로이드",
+		"Title": "안드로이드 프로그래밍",
+		"ManageNo": "610 - 4"
+	},
+	{
+		"No": 86,
+		"Category": "모바일",
+		"SubCategory": "안드로이드",
+		"Title": "쉽게 배우는 안드로이드 앱 취약점 진단",
+		"ManageNo": "610 - 5"
+	},
+	{
+		"No": 87,
+		"Category": "모바일",
+		"SubCategory": "안드로이드",
+		"Title": "Do it! 안드로이드 앱 프로그래밍",
+		"ManageNo": "610 - 6"
+	},
+	{
+		"No": 88,
+		"Category": "모바일",
+		"SubCategory": "안드로이드",
+		"Title": "안드로이드의 모든 것 NDK",
+		"ManageNo": "610 - 7"
+	},
+	{
+		"No": 89,
+		"Category": "프로그래밍",
+		"SubCategory": "JAVA",
+		"Title": "뇌를 자극하는 Java 프로그래밍",
+		"ManageNo": "700 - 1"
+	},
+	{
+		"No": 90,
+		"Category": "프로그래밍",
+		"SubCategory": "JAVA",
+		"Title": "해킹 방어를 위한 JAVA 시큐어코딩",
+		"ManageNo": "700 - 2"
+	},
+	{
+		"No": 91,
+		"Category": "프로그래밍",
+		"SubCategory": "JAVA",
+		"Title": "자바와 암호화",
+		"ManageNo": "700 - 3"
+	},
+	{
+		"No": 92,
+		"Category": "프로그래밍",
+		"SubCategory": "C",
+		"Title": "Perfect C",
+		"ManageNo": "710 - 1"
+	},
+	{
+		"No": 93,
+		"Category": "프로그래밍",
+		"SubCategory": "C",
+		"Title": "C로 배우는 프로그래밍 기초",
+		"ManageNo": "710 - 2"
+	},
+	{
+		"No": 94,
+		"Category": "프로그래밍",
+		"SubCategory": "C",
+		"Title": "C PROGRAMMING",
+		"ManageNo": "710 - 3"
+	},
+	{
+		"No": 95,
+		"Category": "프로그래밍",
+		"SubCategory": "C",
+		"Title": "C 프로그래밍",
+		"ManageNo": "710 - 4"
+	},
+	{
+		"No": 96,
+		"Category": "프로그래밍",
+		"SubCategory": "C",
+		"Title": "C 프로그래밍",
+		"ManageNo": "710 - 5"
+	},
+	{
+		"No": 97,
+		"Category": "프로그래밍",
+		"SubCategory": "C",
+		"Title": "알기 쉽게 해설한 C",
+		"ManageNo": "710 - 6"
+	},
+	{
+		"No": 98,
+		"Category": "프로그래밍",
+		"SubCategory": "C",
+		"Title": "열혈 C 프로그래밍",
+		"ManageNo": "710 - 7"
+	},
+	{
+		"No": 99,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "열혈 C++ 프로그래밍",
+		"ManageNo": "720 - 1"
+	},
+	{
+		"No": 100,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "열혈 C++ 프로그래밍",
+		"ManageNo": "720 - 2"
+	},
+	{
+		"No": 101,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "윈도우즈 API 정복 1",
+		"ManageNo": "720 - 3"
+	},
+	{
+		"No": 102,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "윈도우즈 API 정복 2",
+		"ManageNo": "720 - 4"
+	},
+	{
+		"No": 103,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "WINDOWS VIA C/C++",
+		"ManageNo": "720 - 5"
+	},
+	{
+		"No": 104,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "윈도우 프로그래밍 Visual C++ MFC Programming",
+		"ManageNo": "720 - 6"
+	},
+	{
+		"No": 105,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "FUNDAMENTALS OF DATA STRUCTURES IN C++",
+		"ManageNo": "720 - 7"
+	},
+	{
+		"No": 106,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "C++ 표준 라이브러리 확장",
+		"ManageNo": "720 - 8"
+	},
+	{
+		"No": 107,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "C++ 프로그래밍",
+		"ManageNo": "720 - 9"
+	},
+	{
+		"No": 108,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "Effective C++",
+		"ManageNo": "720 - 10"
+	},
+	{
+		"No": 109,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "Visual C++ .NET 2008",
+		"ManageNo": "720 - 11"
+	},
+	{
+		"No": 110,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "윈도우 프로그래밍 Visual C++ MFC Programming",
+		"ManageNo": "720 - 12"
+	},
+	{
+		"No": 111,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "윈도우 프로그래밍 Visual C++ MFC Programming",
+		"ManageNo": "720 - 13"
+	},
+	{
+		"No": 112,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "Visual C++ 6.0",
+		"ManageNo": "720 - 14"
+	},
+	{
+		"No": 113,
+		"Category": "프로그래밍",
+		"SubCategory": "C++",
+		"Title": "MFC 윈도우 프로그래밍",
+		"ManageNo": "720 - 15"
+	},
+	{
+		"No": 114,
+		"Category": "프로그래밍",
+		"SubCategory": "C#",
+		"Title": "C#과 닷넷 플랫폼",
+		"ManageNo": "730 - 1"
+	},
+	{
+		"No": 115,
+		"Category": "프로그래밍",
+		"SubCategory": "C#",
+		"Title": "찰스 폐졸드의 WPF",
+		"ManageNo": "730 - 2"
+	},
+	{
+		"No": 116,
+		"Category": "프로그래밍",
+		"SubCategory": "어셈블리어",
+		"Title": "인텔 기반 컴퓨터를 위한 어셈블리 언어",
+		"ManageNo": "740 - 1"
+	},
+	{
+		"No": 117,
+		"Category": "프로그래밍",
+		"SubCategory": "파이썬",
+		"Title": "Python",
+		"ManageNo": "750 - 1"
+	},
+	{
+		"No": 118,
+		"Category": "프로그래밍",
+		"SubCategory": "파이썬",
+		"Title": "파이썬 해킹 프로그래밍",
+		"ManageNo": "750 - 2"
+	},
+	{
+		"No": 119,
+		"Category": "프로그래밍",
+		"SubCategory": "파이썬",
+		"Title": "해커의 언어 치명적 파이썬",
+		"ManageNo": "750 - 3"
+	},
+	{
+		"No": 120,
+		"Category": "프로그래밍",
+		"SubCategory": "파이썬",
+		"Title": "더 괜찮은 QA가 되기 위한 프랙티컬 테스트 자동화",
+		"ManageNo": "750 - 4"
+	},
+	{
+		"No": 121,
+		"Category": "프로그래밍",
+		"SubCategory": "파이썬",
+		"Title": "Python Machine Leanring by Example",
+		"ManageNo": "750 - 5"
+	},
+	{
+		"No": 122,
+		"Category": "프로그래밍",
+		"SubCategory": "파이썬",
+		"Title": "Python Machine Leanring by Example",
+		"ManageNo": "750 - 6"
+	},
+	{
+		"No": 123,
+		"Category": "프로그래밍",
+		"SubCategory": "알고리즘",
+		"Title": "The Art of Computer Programming",
+		"ManageNo": "760 - 1"
+	},
+	{
+		"No": 124,
+		"Category": "프로그래밍",
+		"SubCategory": "알고리즘",
+		"Title": "Short Coding",
+		"ManageNo": "760 - 2"
+	},
+	{
+		"No": 125,
+		"Category": "프로그래밍",
+		"SubCategory": "알고리즘",
+		"Title": "프로그래밍 비타민",
+		"ManageNo": "760 - 3"
+	},
+	{
+		"No": 126,
+		"Category": "프로그래밍",
+		"SubCategory": "알고리즘",
+		"Title": "자바로 배우는 쉬운 자료구조",
+		"ManageNo": "760 - 4"
+	},
+	{
+		"No": 127,
+		"Category": "프로그래밍",
+		"SubCategory": "알고리즘",
+		"Title": "코딩 인터뷰 완전분석",
+		"ManageNo": "760 - 5"
+	},
+	{
+		"No": 128,
+		"Category": "프로그래밍",
+		"SubCategory": "알고리즘",
+		"Title": "알고리즘 문제 해결 전략 1",
+		"ManageNo": "760 - 6"
+	},
+	{
+		"No": 129,
+		"Category": "프로그래밍",
+		"SubCategory": "알고리즘",
+		"Title": "알고리즘 문제 해결 전략 2",
+		"ManageNo": "760 - 7"
+	},
+	{
+		"No": 130,
+		"Category": "프로그래밍",
+		"SubCategory": "알고리즘",
+		"Title": "Programming Challenges",
+		"ManageNo": "760 - 8"
+	},
+	{
+		"No": 131,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "뇌를 자극하는 프로그래밍 원리",
+		"ManageNo": "770 - 1"
+	},
+	{
+		"No": 132,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "Code Craft",
+		"ManageNo": "770 - 2"
+	},
+	{
+		"No": 133,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "멀티프로세서 프로그래밍",
+		"ManageNo": "770 - 3"
+	},
+	{
+		"No": 134,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "리팩토링 코드 품질을 개선하는 객체지향 사고법",
+		"ManageNo": "770 - 4"
+	},
+	{
+		"No": 135,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "익스트림 프로그래밍",
+		"ManageNo": "770 - 5"
+	},
+	{
+		"No": 136,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "패턴을 활용한 리팩터링",
+		"ManageNo": "770 - 6"
+	},
+	{
+		"No": 137,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "eXtreme 프로그래밍 리팩토링과 기민한 모델링",
+		"ManageNo": "770 - 7"
+	},
+	{
+		"No": 138,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "레이몬드 첸의 윈도우 개발 282 스토리",
+		"ManageNo": "770 - 8"
+	},
+	{
+		"No": 139,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "소프트웨어 크리에이티비티 2.0",
+		"ManageNo": "770 - 9"
+	},
+	{
+		"No": 140,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "GoF의 디자인 패턴",
+		"ManageNo": "770 - 10"
+	},
+	{
+		"No": 141,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "프로그래머가 알아야 할 97가지",
+		"ManageNo": "770 - 11"
+	},
+	{
+		"No": 142,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "성공과 실패를 결정하는 1%의 프로그래밍 원리",
+		"ManageNo": "770 - 12"
+	},
+	{
+		"No": 143,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "Advanced Programming in the UNIX Environment",
+		"ManageNo": "770 - 13"
+	},
+	{
+		"No": 144,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "실용주의 프로그래머",
+		"ManageNo": "770 - 14"
+	},
+	{
+		"No": 145,
+		"Category": "프로그래밍",
+		"SubCategory": "기타",
+		"Title": "Refactoring 리팩토링",
+		"ManageNo": "770 - 15"
+	},
+	{
+		"No": 146,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "팟캐스트 나는 프로그래머다",
+		"ManageNo": "800 - 1"
+	},
+	{
+		"No": 147,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "프로그래밍 면접 이렇게 준비한다",
+		"ManageNo": "800 - 2"
+	},
+	{
+		"No": 148,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "해킹 침입의 드라마",
+		"ManageNo": "800 - 3"
+	},
+	{
+		"No": 149,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "0과 1의 끝없는 전쟁",
+		"ManageNo": "800 - 4"
+	},
+	{
+		"No": 150,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "I WAR '사이버 냉전 시대' 국가는 어떻게 생존하는가?",
+		"ManageNo": "800 - 5"
+	},
+	{
+		"No": 151,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "누가 미래를 가질 것인가?",
+		"ManageNo": "800 - 6"
+	},
+	{
+		"No": 152,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "스테가노그래피",
+		"ManageNo": "800 - 7"
+	},
+	{
+		"No": 153,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "보안으로 혁신하라",
+		"ManageNo": "800 - 8"
+	},
+	{
+		"No": 154,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "보안으로 혁신하라",
+		"ManageNo": "800 - 9"
+	},
+	{
+		"No": 155,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "훌륭한 프로그래머 되는 법",
+		"ManageNo": "800 - 10"
+	},
+	{
+		"No": 156,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "메모로 나를 경영하라",
+		"ManageNo": "800 - 11"
+	},
+	{
+		"No": 157,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "지금 너에게 가장 필요한 것은",
+		"ManageNo": "800 - 12"
+	},
+	{
+		"No": 158,
+		"Category": "교양서적",
+		"SubCategory": null,
+		"Title": "컴퓨터과학의 기초를 다지는 단단한 수학",
+		"ManageNo": "800 - 13"
+	},
+	{
+		"No": 159,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "파이썬으로 시작하는 라즈베리 파이 프로그래밍",
+		"ManageNo": "900 - 1"
+	},
+	{
+		"No": 160,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "매트랩을 이용한 디지털 영상처리의 기초",
+		"ManageNo": "900 - 2"
+	},
+	{
+		"No": 161,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "대용량 아키텍처와 성능 튜닝",
+		"ManageNo": "900 - 3"
+	},
+	{
+		"No": 162,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "Hadoop 완벽 가이드",
+		"ManageNo": "900 - 4"
+	},
+	{
+		"No": 163,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "Flex/AIR Bible",
+		"ManageNo": "900 - 5"
+	},
+	{
+		"No": 164,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "아두이노 완전정복",
+		"ManageNo": "900 - 6"
+	},
+	{
+		"No": 165,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "인공지능, 머신러닝, 딥러닝 입문",
+		"ManageNo": "900 - 7"
+	},
+	{
+		"No": 166,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "라즈베리 파이 쿡북",
+		"ManageNo": "900 - 8"
+	},
+	{
+		"No": 167,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "당근이의 AVR 갖고 놀기",
+		"ManageNo": "900 - 9"
+	},
+	{
+		"No": 168,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "임베디드 개발자를 위한 파일시스템의 원리와 실습",
+		"ManageNo": "900 - 10"
+	},
+	{
+		"No": 169,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "SDN 입문",
+		"ManageNo": "900 - 11"
+	},
+	{
+		"No": 170,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "UML 기반 시스템 분석 설계",
+		"ManageNo": "900 - 12"
+	},
+	{
+		"No": 171,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "인사이드 머신",
+		"ManageNo": "900 - 13"
+	},
+	{
+		"No": 172,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "concepts of Programming Languages",
+		"ManageNo": "900 - 14"
+	},
+	{
+		"No": 173,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "The Art of Project Management 마음을 움직이는 프로젝트 관리",
+		"ManageNo": "900 - 15"
+	},
+	{
+		"No": 174,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "Big Number 연산",
+		"ManageNo": "900 - 16"
+	},
+	{
+		"No": 175,
+		"Category": "기타",
+		"SubCategory": null,
+		"Title": "시작하세요 도커 !",
+		"ManageNo": "900 - 17"
+	}
+]
