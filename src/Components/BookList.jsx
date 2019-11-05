@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Book from './Book';
-import data from '../books.json';
 import styled from 'styled-components';
 
 class BookList extends Component {

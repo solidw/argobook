@@ -18,7 +18,7 @@ class App extends Component {
   }
 
   handleSubmit = () => {
-    const { input, data } = this.state;
+    const { input } = this.state;
     if (input === '') {
       this.setState({
         data: bookData
@@ -27,10 +27,12 @@ class App extends Component {
     else {
       this.setState({
         input: input,
-        data: data.filter(item => {
-          const lc = item['Title'].toLowerCase();
-          const filter = input.toLowerCase();
-          return lc.includes(filter);
+        data: bookData.filter(item => {
+          const filteredByCategory = item['Category'].toLowerCase().replace(/\s/gi, "");
+          const filteredByTitle = item['Title'].toLowerCase().replace(/\s/gi, "");
+          const filteredByManageNo = item['ManageNo'].toLowerCase().replace(/\s/gi, "");
+          const filter = input.toLowerCase().replace(/\s/gi, "");
+          return filteredByCategory.includes(filter) | filteredByTitle.includes(filter) | filteredByManageNo.includes(filter);
         })
       })
     }
@@ -43,7 +45,6 @@ class App extends Component {
   }
 
   render() {
-    const { input } = this.state;
     const {
       handleChange,
       handleKeyPress,
