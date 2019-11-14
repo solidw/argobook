@@ -8,13 +8,22 @@ import './App.css';
 class App extends Component {
   state = {
     input: '',
+    inputTimeout: 200,
+    inputTimeoutEvent: undefined,
     data: bookData,
+
   }
 
   handleChange = (e) => {
     this.setState({
       input: e.target.value
     });
+
+    if (this.state.inputTimeoutEvent) {
+      clearTimeout(this.state.inputTimeoutEvent);
+    }
+
+    this.state.inputTimeoutEvent = setTimeout(() => this.handleSubmit(), this.state.inputTimeout);
   }
 
   handleSubmit = () => {
