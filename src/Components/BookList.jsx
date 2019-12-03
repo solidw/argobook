@@ -1,34 +1,28 @@
 import React, { Component } from 'react';
 import Book from './Book';
-import styled from 'styled-components';
 
 class BookList extends Component {
     render() {
         const { data } = this.props;
-        const ret = (
-            <ChildDiv>
-                {
-                    data.map(res => (
-                        <Book key={res.No} No={res.No} Category={res.Category} Title={res.Title} ManageNo={res.ManageNo} />
-                    ))
-                }
-            </ChildDiv>
-        )
-
+        const ret = data.map(res => (
+            <Book
+                key={res.No}
+                No={res.No}
+                Category={res.Category}
+                Title={res.Title}
+                ManageNo={res.ManageNo}
+            />))
         return (
-            <ParentDiv>
+            <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
+                <div>
+                    <h1>
+                        ARGOBOOK DATA
+                    </h1>
+                </div>
                 {ret}
-            </ParentDiv>
+            </div>
         )
     }
 }
 
-const ParentDiv = styled.div`
-    display:flex;
-    `
-const ChildDiv = styled.div`
-    margin-top:1em;
-    width: 75%;
-    align:center;
-    `
 export default BookList;

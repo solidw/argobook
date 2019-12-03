@@ -9,7 +9,9 @@ class Search extends Component {
 
         return (
             <Div>
-                <a href="http://argos.or.kr" rel="noopener noreferrer" target="_blank"><Image width="auto" height="50px" src={logo} /></a>
+                <Div>
+                    <a href="http://argos.or.kr" rel="noopener noreferrer" target="_blank"><Image width="auto" height="50px" src={logo} /></a>
+                </Div>
                 <Div>
                     <Input onKeyPress={handleKeyPress} placeholder="Type book's title" onChange={handleChange} />
                     <Button onSubmit={handleSubmit}><img src={searchIcon} alt="FIND" /></Button>
@@ -22,10 +24,11 @@ class Search extends Component {
 const Image = styled.img`   
     padding:2em;
     `
+
 const Input = styled.input`
-    flex : 0 0 180%;
+    display:flex;
     border: 1px solid white;
-    border-radius: 3px;
+    border-radius: 5px;
 
     margin-top: 2em;
     margin-bottom: 2em;
@@ -33,8 +36,9 @@ const Input = styled.input`
     padding-left: 3em;
     font-size:1em;
     ::placeholder {
-        color: rgb(123,123,123);
+        color: #00DEFB;
     }
+    width : auto;
     `
 
 const Button = styled.button`
@@ -51,9 +55,10 @@ const Button = styled.button`
     `
 
 const Div = styled.div`
-    background: transparent;
-    background-color: rgb(123,123,123);
     display:flex;
+    background: transparent;
+    background-color: deepskyblue;
+    justify-content : space-around;
     `
 
 export default Search;
