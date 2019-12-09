@@ -2,14 +2,26 @@ import React, { Component } from 'react';
 import Search from './Components/Search';
 import BookList from './Components/BookList';
 import bookData from './books.json';
+import axios from 'axios';
 
 import './App.css';
 
 class App extends Component {
   state = {
     input: '',
-    data: bookData,
+    data: [],
+    isRender: false,
   }
+
+  componentDidMount() {
+    axios.get('/api/books')
+      .then(res => {
+        this.setState({ data: res.data, isRender: true });
+      })
+      .catch(e => {
+        console.log('data가 load되지 못했습니다.');
+      });
+  };
 
   handleChange = (e) => {
     this.setState({
@@ -55,7 +67,7 @@ class App extends Component {
     return (
       <div>
         <Search handleChange={handleChange} handleSubmit={handleSubmit} handleKeyPress={handleKeyPress} />
-        <BookList data={this.state.data} />
+        {this.state.isRender ? <BookList data={this.state.data} /> : ''}
       </div>
     );
   }

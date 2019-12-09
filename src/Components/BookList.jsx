@@ -9,8 +9,10 @@ class BookList extends Component {
                 key={res.No}
                 No={res.No}
                 Category={res.Category}
+                SubCategory={res.SubCategory}
                 Title={res.Title}
                 ManageNo={res.ManageNo}
+                isRented={res.isRented}
             />))
         return (
             <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
@@ -19,6 +21,15 @@ class BookList extends Component {
                         ARGOBOOK DATA
                     </h1>
                 </div>
+                <Book
+                    key={0}
+                    No={"번호"}
+                    Category={"대분류"}
+                    SubCategory={"소분류"}
+                    Title={"타이틀"}
+                    ManageNo={"도서번호"}
+                    isRented={"대여 가능"}
+                />
                 {ret}
             </div>
         )
